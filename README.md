@@ -2,7 +2,7 @@
 ![](https://img.shields.io/pypi/l/pandas)
 [![Documentation Status](http://img.shields.io/badge/docs-v3.9.0-brightgreen.svg?style=flat)](http://docs.tweepy.org)
 [![Version](http://img.shields.io/pypi/v/tweepy.svg?style=flat)](https://pypi.org/project/tweepy/)
-[![Python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue)
+![Python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue)
 # Build REST APIs with Python, Flask, Flask-RESTful, and Flask-SQLAlchemy
  Using Flask and popular extensions Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy implement via technologies Git, Heroku, and nginx.
 
